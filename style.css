@@ -198,6 +198,8 @@ nav{
 @media screen and (max-width: 576px){
     header{
         background-size:cover;
+        height: auto;
+        padding-bottom: 100px;
       
     }
     nav{
@@ -235,6 +237,7 @@ nav{
     }
     .img-search-container{
         width: 100%;
+        height: auto;
         margin: 0 auto;
         margin-top:10px;
         text-align: center;
